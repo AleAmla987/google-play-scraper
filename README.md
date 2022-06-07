@@ -9,7 +9,7 @@ Node.js module to scrape application data from the Google Play store.
 
 ## Installation
 ```
-npm install google-play-scraper
+npm install google-play-scraper-juy
 ```
 
 ## Usage
